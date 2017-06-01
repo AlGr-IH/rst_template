@@ -27,12 +27,11 @@ Images and Figures
 
 A "figure" consists of image data (including image options), an optional caption (a single paragraph), and an optional legend (arbitrary body elements). This is an example for a centered figure scaled to 50% with caption and legend.
 
-.. _my-figure:
-
 .. figure:: images/scen-smartcity.*
 	:scale: 50 %
 	:alt: smartcity symbol
 	:align: center
+	:name: my-figure
 
 	This is the caption of the figure (a simple paragraph).
 
