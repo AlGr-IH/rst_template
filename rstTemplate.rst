@@ -43,6 +43,13 @@ TODO: Figure enumeration and referencing (siehe http://www.sphinx-doc.org/en/sta
 
 For further reading on `images <http://docutils.sourceforge.net/docs/ref/rst/directives.html#image>`_ and `figures <http://docutils.sourceforge.net/docs/ref/rst/directives.html#figure>`_ refer to the rst documentation.
 
+.. math::
+
+   \frac{ \sum_{t=0}^{N}f(t,k) }{N}
+Or if you want to write inline you can use this:
+
+:math:`\frac{ \sum_{t=0}^{N}f(t,k) }{N}`
+
 References
 -------------
 
