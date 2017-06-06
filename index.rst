@@ -19,4 +19,10 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. include:: rstTemplate.rst 
+.. toctree::
+   :maxdepth: 2
+   :caption: rst Template:
+   :hidden:
+
+   rstTemplate
+
