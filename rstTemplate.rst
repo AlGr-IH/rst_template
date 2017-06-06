@@ -45,10 +45,10 @@ For further reading on `images <http://docutils.sourceforge.net/docs/ref/rst/dir
 
 .. math::
 
-   \\frac{ \\sum_{t=0}^{N}f(t,k) }{N}
+   \frac{ \sum_{t=0}^{N}f(t,k) }{N}
 Or if you want to write inline you can use this:
 
-:math:`\\frac{ abc}{N}`
+:math:`\frac{ abc}{N}`
 
 geht das?
 
