@@ -37,7 +37,7 @@ A "figure" consists of image data (including image options), an optional caption
 
 	The legend consists of all elements after the caption. In this case, the legend consists of this paragraph
 
-Reference to the figure :numref:`(Fig. %s) <my-figure>`
+Reference to the figure :numref:`my-figure`
 
 TODO: Figure enumeration and referencing (siehe http://www.sphinx-doc.org/en/stable/markup/inline.html#cross-referencing-figures-by-figure-number )
 
